@@ -24,7 +24,8 @@ On linux:
 ```# bash update_pip_packages.sh```
 
 On Windows:
-```# ```
+```# bash update_pip_packages.sh```
 
 On macOS:
-```# ```
+```chmod +x update_pip_packages.sh```
+```./update_pip_packages.sh```
