@@ -1,6 +1,8 @@
 # Pip_Updater_Script
 A very simple Automated Pip Updater Script to bulk update all pip packages
 
+Pip Updater Script - Readme - A simple automated package checker and updater for Pip - By FXPRO
+
 This Pip Updater Script will automatically update all packages on Pip.  I made this script because there is no one single command that updates all packages and due to the constant package updates that were available on Pip, but could be updated even though certain dependencies were not met, thus providing a potentially unstable environment.
 
 The Pip Updater script does the following tasks:
