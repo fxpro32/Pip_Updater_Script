@@ -27,5 +27,5 @@ On Windows:
 ```# bash update_pip_packages.sh```
 
 On macOS:
-```chmod +x update_pip_packages.sh```
-```./update_pip_packages.sh```
+```chmod +x update_pip_packages.sh
+./update_pip_packages.sh```
