@@ -17,3 +17,14 @@ The Pip Updater script does the following tasks:
 9. The script ends automatically back to terminal prompt.
 
 I hope this helps anyone who has been battling with pip updates and dependency problems and to keep a properly controlled Pip package environment in your OS.
+
+# How to Run the Script?
+
+On linux:
+```# bash update_pip_packages.sh```
+
+On Windows:
+```# ```
+
+On macOS:
+```# ```
